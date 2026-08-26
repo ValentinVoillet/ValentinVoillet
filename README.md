@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valentin Voillet</h1>
-<h3 align="center">Computational Biologist | PhD in Computational Biology & Applied Biostatistics</h3>
+<h3 align="center">Computational Biologist | Data Scientist | PhD in Computational Biology & Applied Biostatistics</h3>
 
 <p align="center">
   NGS data analysis · Statistical data analysis · Multi-omics integration · Machine Learning · Reproducible pipelines
@@ -19,10 +19,31 @@
 ### 🛠️ Technical Skills
 
 **Programming & Tools**
-- R (expert) — statistical modeling, ML workflows
+- R (expert) — statistical modeling, ML workflows, tidyverse
 - Python (intermediate) — data manipulation
-- Nextflow (intermediate) — workflow management
 - HPC / SLURM job scheduling
+
+**Bioinformatics Software & Frameworks**
+
+*Single-cell analysis*
+- Seurat, Scanpy, scran/scater
+- scVI-tools ecosystem (scVI, totalVI, MultiVI)
+- Leiden/Louvain clustering, doublet detection (scDblFinder, DoubletFinder)
+
+*Multi-omics integration*
+- MixOmics, MOFA/MOFA+
+- WGCNA / co-expression network analysis
+
+*Bulk RNA-seq & differential expression*
+- DESeq2, edgeR, limma
+- STAR, RSEM, CellRanger (alignment/quantification)
+
+*Flow & mass cytometry*
+- flowWorkspace, CytoML, flowCore, CATALYST
+
+*Workflow & reproducibility*
+- Nextflow 
+- Git/GitHub for version control
 
 **Statistical Modeling**
 - Linear & mixed-effects models, GLMs, multivariate analysis, exploratory data analysis
@@ -43,7 +64,7 @@
 | Period | Role | Organization |
 |---|---|---|
 | Jul 2026 – Present | Visiting Researcher | University of Melbourne (Lê Cao Lab - Melbourne Integrative Genomics) |
-| Jan 2022 – Present | Senior Computational Biologist - Consultant (remote) | Cape Town HVTN Immunology Lab & Fred Hutchinson Cancer Center |
+| Jan 2022 – Present | Senior Computational Biologist - Consultant (remote, full-time) | Cape Town HVTN Immunology Lab & Fred Hutchinson Cancer Center |
 | Feb 2020 – Dec 2021 | Research Officer (onsite) | Cape Town HVTN Immunology Lab |
 | Nov 2016 – Jan 2020 | Postdoctoral Fellow | Fred Hutchinson Cancer Research Center |
 
