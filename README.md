@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valentin Voillet</h1>
-<h3 align="center">Senior Computational Biologist | PhD in Computational Biology & Applied Biostatistics</h3>
+<h3 align="center">Computational Biologist | PhD in Computational Biology & Applied Biostatistics</h3>
 
 <p align="center">
   NGS data analysis · Statistical data analysis · Multi-omics integration · Machine Learning · Reproducible pipelines
@@ -43,8 +43,8 @@
 | Period | Role | Organization |
 |---|---|---|
 | Jul 2026 – Present | Visiting Researcher | University of Melbourne (Lê Cao Lab - Melbourne Integrative Genomics) |
-| Jan 2022 – Present | Senior Computational Biologist (remote) | Cape Town HVTN Immunology Lab & Fred Hutchinson Cancer Center |
-| Feb 2020 – Dec 2021 | Senior Computational Biologist (onsite) | Cape Town HVTN Immunology Lab |
+| Jan 2022 – Present | Senior Computational Biologist - Consultant (remote) | Cape Town HVTN Immunology Lab & Fred Hutchinson Cancer Center |
+| Feb 2020 – Dec 2021 | Research Officer (onsite) | Cape Town HVTN Immunology Lab |
 | Nov 2016 – Jan 2020 | Postdoctoral Fellow | Fred Hutchinson Cancer Research Center |
 
 ---
@@ -60,6 +60,6 @@
 ### 📫 Connect with me
 
 [![Email](https://img.shields.io/badge/Email-valentin.voillet%40gmail.com-informational?style=flat&logo=gmail)](mailto:valentin.voillet@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Valentin%20Voillet-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/valentin-voillet-20865940/)
 
 
