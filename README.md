@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Valentin Voillet</h1>
+<h3 align="center">Senior Computational Biologist | PhD in Computational Biology & Applied Biostatistics</h3>
 
-<!--
-**ValentinVoillet/ValentinVoillet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  NGS data analysis · Statistical data analysis · Multi-omics integration · Machine Learning · Reproducible pipelines
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 About Me
+
+- 🧬 9+ years of experience in high-impact research environments  
+- 📊 Expert in statistical modeling, data integration, visualization, and machine learning applied to high-dimensional biological data
+- 📄 Author or co-author of **25+ peer-reviewed articles** in journals
+- 📫 Reach me at **valentin.voillet@gmail.com**
+
+---
+
+### 🛠️ Technical Skills
+
+**Programming & Tools**
+- R (expert) — statistical modeling, ML workflows
+- Python (intermediate) — data manipulation
+- Nextflow (intermediate) — workflow management
+- HPC / SLURM job scheduling
+
+**Statistical Modeling**
+- Linear & mixed-effects models, GLMs, multivariate analysis, exploratory data analysis
+
+**Machine Learning**
+- Supervised & unsupervised learning, predictive modeling
+- Clustering (k-means, Leiden), dimensionality reduction (PCA, UMAP, t-SNE), feature selection
+
+**Bioinformatics & Data Types**
+- Bulk RNA-seq, single-cell RNA-seq, CITE-seq
+- Multi-modal data integration 
+- Flow cytometry
+
+---
+
+### 💼 Experience
+
+| Period | Role | Organization |
+|---|---|---|
+| Jul 2026 – Present | Visiting Researcher | University of Melbourne (Lê Cao Lab - Melbourne Integrative Genomics) |
+| Jan 2022 – Present | Senior Computational Biologist (remote) | Cape Town HVTN Immunology Lab & Fred Hutchinson Cancer Center |
+| Feb 2020 – Dec 2021 | Senior Computational Biologist (onsite) | Cape Town HVTN Immunology Lab |
+| Nov 2016 – Jan 2020 | Postdoctoral Fellow | Fred Hutchinson Cancer Research Center |
+
+---
+
+### 🎓 Education
+
+- **Ph.D., Computational Biology & Applied Biostatistics** — INRA Toulouse / CSIRO St Lucia / INP Toulouse, Université de Toulouse (2016)
+  - Awarded *Prix Léopold Escande 2016*
+- **MSc, Bioinformatics & Systems Biology**, with high distinction — Université Paul Sabatier, Toulouse (2013)
+
+---
+
+### 📫 Connect with me
+
+[![Email](https://img.shields.io/badge/Email-valentin.voillet%40gmail.com-informational?style=flat&logo=gmail)](mailto:valentin.voillet@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](#)
+
+
