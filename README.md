@@ -11,7 +11,7 @@
 
 - 🧬 9+ years of experience in high-impact research environments  
 - 📊 Expert in statistical modeling, data integration, visualization, and machine learning applied to high-dimensional biological data
-- 📄 Author or co-author of **25+ peer-reviewed articles** in journals
+- 📄 Author or co-author of **30+ peer-reviewed articles** in journals
 - 📫 Reach me at **valentin.voillet@gmail.com**
 
 ---
@@ -63,10 +63,10 @@
 
 | Period | Role | Organization |
 |---|---|---|
-| Jul 2026 – Present | Visiting Researcher | University of Melbourne (Lê Cao Lab - Melbourne Integrative Genomics) |
+| Aug 2026 – Present | Visiting Researcher | University of Melbourne (Lê Cao Lab - Melbourne Integrative Genomics) |
 | Jan 2022 – Present | Senior Computational Biologist - Consultant (remote, full-time) | Cape Town HVTN Immunology Lab & Fred Hutchinson Cancer Center |
 | Feb 2020 – Dec 2021 | Research Officer (onsite) | Cape Town HVTN Immunology Lab |
-| Nov 2016 – Jan 2020 | Postdoctoral Fellow | Fred Hutchinson Cancer Research Center |
+| Nov 2016 – Jan 2020 | Postdoctoral Fellow | Fred Hutchinson Cancer Research Center (Gottardo Lab) |
 
 ---
 
